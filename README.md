@@ -1,7 +1,7 @@
 <h1 align="center">
   <img alt="LinsMoney" title="#LinsMoney" src="./src/assets/logo.svg" />
+  Uma aplicação web responsiva para controle financeiro usando React JS com Typescript
 </h1>
-  Uma aplicação web para controle financeiro usando React JS com Typescript
 
 <h2 align="center">Tabela de Conteúdos</h2>
 <p align="center">
@@ -15,7 +15,7 @@
 </p>
 
 <h2 align="center" id="sobre">Sobre</h2>
-<p align="justify">Uma aplicação web de controle financeiro, onde o usuário pode ter acesso de todas as suas transações de entradas e saídas registradas sendo exibidas na tela de inicial, a aplicação é super simples de usar, com funcinalidades que ajudam a ter uma melhor organização das finanças.</p>
+<p align="justify">Uma aplicação web de controle financeiro, onde o usuário pode ter acesso de todas as suas transações de entradas e saídas registradas sendo exibidas na tela inicial, a aplicação é super simples de usar, com funcinalidades que ajudam a ter uma melhor organização das finanças.</p>
 
 <h3 align="left" id="funcionalidades">Funcionalidades</h3>
 
@@ -35,8 +35,8 @@
 
 
 <p align="center">
-  <img alt="LinsMoneyDashboard" title="#LinsMoneyDashboard" src="./src/assets/dashboard.jpg" width="400px">
-  <img alt="LinsMoneyModal" title="#LinsMoneyModal" src="./src/assets/modal.jpg" width="400px">
+  <img alt="LinsMoneyDashboard" title="#LinsMoneyDashboard" src="./src/assets/dashboard.jpg" width="500px">
+  <img alt="LinsMoneyModal" title="#LinsMoneyModal" src="./src/assets/modal.jpg" width="500px">
 </p>
 
 <p align="center">
@@ -50,10 +50,12 @@
 <p align="justify">As seguintes Tecnologias e bibliotecas que foram usadas na construção do projeto</p>
 
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
+- [ReactJS](https://pt-br.reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [styled-components](https://styled-components.com/docs/basics)
+- [Styled-components](https://styled-components.com/docs/basics)
+- [React-modal](https://github.com/reactjs/react-modal)
+- [MirageJS](https://miragejs.com/tutorial/intro/)
+- [Axios](https://axios-http.com/docs/intro)
 
 <h2 align="left" id="status">Status do Projeto</h2>
 <p align="left"> 🚧  ReactJS 🚀 Versão 1.0 em Construção.  🚧.</p>
