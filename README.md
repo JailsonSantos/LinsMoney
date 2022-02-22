@@ -1,7 +1,10 @@
 <h1 align="center">
   <img alt="LinsMoney" title="#LinsMoney" src="./src/assets/logo.svg" />
-  Uma aplicação web responsiva para controle financeiro usando React JS com Typescript
 </h1>
+
+<p align="center">
+  Uma aplicação web responsivo para controle financeiro usando React JS com Typescript
+</p>
 
 <h2 align="center">Tabela de Conteúdos</h2>
 <p align="center">
@@ -31,18 +34,17 @@
   <img alt="Made by Jailson Lins" src="https://img.shields.io/badge/Acessar%20Layout-FIGMA-green">
 </a>
 
-<h3 align="left" id="layout">Versao Web e responsível</h3>
-
+<h3 align="left" id="layout">Versao Web responsivo</h3>
 
 <p align="center">
-  <img alt="LinsMoneyDashboard" title="#LinsMoneyDashboard" src="./src/assets/dashboard.jpg" width="500px">
-  <img alt="LinsMoneyModal" title="#LinsMoneyModal" src="./src/assets/modal.jpg" width="500px">
+  <img alt="LinsMoneyDashboard" title="#LinsMoneyDashboard" src="./src/assets/dashboard.jpg" width="600px">
+  <img alt="LinsMoneyModal" title="#LinsMoneyModal" src="./src/assets/modal.jpg" width="600px">
 </p>
 
 <p align="center">
-  <img alt="LinsMoneyDashboardMobile" title="#LinsMoneyDashboardMobile" src="./src/assets/dashboard-mobile.jpg" width="150px">
-  <img alt="LinsMoneyModalMobile" title="#LinsMoneyModalMobile" src="./src/assets/modal-mobile.jpg" width="150px">
-    <img alt="LinsMoneyHistoricoMobile" title="#LinsMoneyHistoricoMobile" src="./src/assets/historico.jpg" width="150px">
+  <img alt="LinsMoneyDashboardMobile" title="#LinsMoneyDashboardMobile" src="./src/assets/dashboard-mobile.jpg" width="160px">
+  <img alt="LinsMoneyModalMobile" title="#LinsMoneyModalMobile" src="./src/assets/modal-mobile.jpg" width="160px">
+    <img alt="LinsMoneyHistoricoMobile" title="#LinsMoneyHistoricoMobile" src="./src/assets/historico.jpg" width="160px">
 </p>
 
 
