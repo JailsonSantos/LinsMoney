@@ -18,7 +18,7 @@
 </p>
 
 <h2 align="center" id="sobre">Sobre</h2>
-<p align="justify">Uma aplicação web de controle financeiro, onde o usuário pode ter acesso de todas as suas transações de entradas e saídas registradas sendo exibidas na tela inicial, a aplicação é super simples de usar, com funcinalidades que ajudam a ter uma melhor organização das finanças.</p>
+<p align="justify">Uma aplicação web de controle financeiro, onde o usuário pode ter acesso de todas as suas transações de entradas e saídas registradas sendo exibidas na tela inicial, a aplicação é super simples de usar, com funcionalidades que ajudam a ter uma melhor organização das finanças.</p>
 
 <h3 align="left" id="funcionalidades">Funcionalidades</h3>
 
